@@ -2,7 +2,7 @@
 
 This repository is used to centralize reporting of all Subgraph OS issues.
 
-**[All Open Issues](https://github.com/subgraph/subgraph-os-issues/issues)**
+**[Browse All Open Issues](https://github.com/subgraph/subgraph-os-issues/issues)**
 
 **[Browse All Closed Issues](https://github.com/subgraph/subgraph-os-issues/issues?q=is%3Aissue+is%3Aclosed)**
 
