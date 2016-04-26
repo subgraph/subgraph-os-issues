@@ -17,6 +17,10 @@ Before submitting an issue please review some of our documentation:
 * [OZ Technical Documentation](https://github.com/subgraph/oz/wiki/Oz-Technical-Details)
 * [OZ Usage Readme](https://github.com/subgraph/oz/blob/master/README.mdwn)
 
+
+---------
+
+
 <p align="center">
 <a href="https://webchat.oftc.net/?channels=%23subgraph"><img
 src="https://img.shields.io/badge/webchat-oftc%20%23subgraph-blue.svg"
