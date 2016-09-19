@@ -8,6 +8,8 @@ This repository is used to centralize reporting of all Subgraph OS issues.
 
 **[Click Here To Open a New Issue](https://github.com/subgraph/subgraph-os-issues/issues/new)**
 
+**['Help Wanted' Tickets](https://github.com/subgraph/subgraph-os-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)** (good projects for people looking to contribute)
+
 ## Documentation
 
 Before submitting an issue please review some of our documentation:
