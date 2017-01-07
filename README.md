@@ -24,7 +24,7 @@ Before submitting an issue please review some of our documentation:
 
 
 <p align="center">
-<a href="https://webchat.oftc.net/?channels=%23subgraph"><img
+<a href="https://riot.im/app/#/room/#_oftc_#subgraph:matrix.org"><img
 src="https://img.shields.io/badge/webchat-oftc%20%23subgraph-blue.svg"
 alt="[webchat: oftc #subgraph]" /></a>
 </p>
